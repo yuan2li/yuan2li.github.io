@@ -3,5 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
         
-  - title: "Posts"
-    url: /posts/
+  - title: "Blogs"
+    url: /Blogs/
+
+  - title: "Honors"
+    url: /Honors/
+
+  - title: "Misc"
+    url: /Misc/

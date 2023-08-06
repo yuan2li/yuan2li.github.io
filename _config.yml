@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yuan Li"
   avatar           : "profile.png"
-  bio              : "Ph.D. candidate, ZJU"
-  location         :
+  bio              : "PhD Candidate@ZJU"
+  location         : 
   employer         :
   pubmed           :
   googlescholar    :
@@ -103,18 +103,19 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  zhihu            : "https://www.zhihu.com/people/li-yuan-57-94-74"
 
 
 # Reading Files
