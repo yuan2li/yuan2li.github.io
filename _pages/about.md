@@ -15,4 +15,4 @@ I am currently a Ph.D. student of Network and Information Security at [Automated
 
 # Contact
 
-Our group is looking for self-motivated interns to work with. If you are interested, please drop me an email.
+Our group is looking for self-motivated interns to work with. If you are interested, please drop me an email: ly.liyuan@zju.edu.cn.
