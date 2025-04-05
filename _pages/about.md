@@ -52,7 +52,7 @@ I am now working on broad areas, including programming languages, software engin
 - *2018.11* Outstanding Undergraduate
 
 # 📖 Educations
-- *2023.09 - 2027.06 (now)* PhD Candidate, Network and Information Security<br>
+- *2023.09 - now* PhD Candidate, Network and Information Security<br>
   School of Computer Science and Technology, Zhejiang University, Hangzhou
 - *2020.09 - 2023.06* Master, Cyberspace Security<br>
   Institute of Cyberspace Advanced Technology, Guangzhou University, Guangzhou
@@ -64,4 +64,4 @@ I am now working on broad areas, including programming languages, software engin
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2022.06 - 2022.09* [Trend Micro](https://www.trendmicro.com), Software Development for Threat Response, Nanjing
+- *2022.06 - 2022.09* ML Development for Threat Response, Trend Micro, Nanjing
