@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Yuan Li, a PhD student at [ZJU Programming Languages and Autoamted Reasoning Group](https://github.com/ZJU-Automated-Reasoning-Group), Zhejiang University, supervised by [Peisen Yao](https://rainoftime.github.io/). 
+Hi, I'm Yuan Li, a PhD student in the [ZJU Programming Languages and Automated Reasoning Group](https://github.com/ZJU-Automated-Reasoning-Group), Zhejiang University, advised by Prof. [Peisen Yao](https://rainoftime.github.io/). 
 
 I am now working on broad areas, including programming languages, software engineering, cybersecurity, and artificial intelligence, focusing on topics about the evaluation and optimization of techniques related to static analysis. 
 
@@ -49,15 +49,12 @@ I am now working on broad areas, including programming languages, software engin
 # 🎖 Honors and Awards
 - *2023.06* Outstanding Graduate
 - *2022.11* National Scholarship (Graduate)
+- *2021.12* CCF BCDI Digital Security Contest Second Prize (Rank 2/907)
 - *2018.11* Outstanding Undergraduate
 
-# 📖 Educations
-- *2023.09 - now* PhD Candidate, Network and Information Security<br>
-  School of Computer Science and Technology, Zhejiang University, Hangzhou
-- *2020.09 - 2023.06* Master, Cyberspace Security<br>
-  Institute of Cyberspace Advanced Technology, Guangzhou University, Guangzhou
-- *2016.09 - 2020.06* Bachelar, Information Security<br>
-  School of Computer Science and Technology, Harbin Institute of Technology, Weihai
+<!-- # 📖 Educations
+- *2023.09 - now* PhD Candidate, xxxbr>
+  School of xx, xx University, xx -->
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
