@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Yuan Li, a PhD student in the [ZJU Programming Languages and Automated Reasoning Group](https://github.com/ZJU-Automated-Reasoning-Group), Zhejiang University, advised by Prof. [Peisen Yao](https://rainoftime.github.io/). 
+Hi, I'm Yuan Li, a PhD student in the [ZJU Programming Languages and Automated Reasoning Group](https://github.com/ZJU-Automated-Reasoning-Group), advised by Prof. [Peisen Yao](https://rainoftime.github.io/). 
 
 I am now working on broad areas, including programming languages, software engineering, cybersecurity, and artificial intelligence, focusing on topics about the evaluation and optimization of techniques related to static analysis. 
 
@@ -27,8 +27,8 @@ I am now working on broad areas, including programming languages, software engin
 
 # 📝 Publications 
 
-> \*: Corresponding authors <br>
-  \#: Co-first authors
+> \* Corresponding authors <br>
+  \# Co-first authors
 
 <!-- - [[ISSTA'25 Tool Demos] XASTBench: A Microbenchmark for Evaluating Java SAST Tools](https://yuan2li.github.io/)
   **Yuan Li**, Kan Yu, Peisen Yao\*
@@ -42,15 +42,15 @@ I am now working on broad areas, including programming languages, software engin
   Shudong Li\#\*, **Yuan Li**\#, Xiaobo Wu, Sattam Al Otaibi, Zhihong Tian<br>
   IEEE Transactions on Intelligent Transportation Systems (CCF B, JCR Q1)
 
-- [[SMPT'21] Malicious mining code detection based on ensemble learning in cloud computing environment](https://www.sciencedirect.com/science/article/abs/pii/S1569190X21000976)<br>
+- [[SMPT'21] Malicious Mining Code Detection Based on Ensemble Learning in Cloud Computing Environment](https://www.sciencedirect.com/science/article/abs/pii/S1569190X21000976)<br>
   Shudong Li\#\*, **Yuan Li**\#, Weihong Han, Xiaojiang Du, Mohsen Guizani, Zhihong Tian\*<br>
   Simulation Modelling Practice and Theory (JCR Q1)
 
 # 🎖 Honors and Awards
 - *2023.06* Outstanding Graduate
-- *2022.11* National Scholarship (Graduate)
+- *2022.12* National Scholarship (Graduate)
 - *2021.12* CCF BCDI Digital Security Contest Second Prize (Rank 2/907)
-- *2018.11* Outstanding Undergraduate
+- *2018.12* Outstanding Undergraduate
 
 <!-- # 📖 Educations
 - *2023.09 - now* PhD Candidate, xxxbr>
