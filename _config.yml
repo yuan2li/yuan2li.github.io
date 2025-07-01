@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuan Li"
-description              : "PhD Candidate@ZJU PL/SE/Security/AI"
+description              : "PhD Student@ZJU PL/SE/Security/AI"
 repository               : "yuan2li/yuan2li.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,7 +27,7 @@ author:
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=JvCfVlIAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=JvCfVlIAAAAJ"
   email            : "ly.liyuan@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
