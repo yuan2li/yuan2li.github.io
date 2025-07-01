@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "Bio"
+    url: "/#-bio"
 
   # - title: "News"
   #   url: "/#-news"
@@ -12,14 +12,14 @@ main:
   - title: "Projects"
     url: "/#-projects"
 
-  - title: "Honors & Awards"
-    url: "/#-honors-and-awards"
-
-  # - title: "Educations"
-  #   url: "/#-educations"
-
   - title: "Talks"
     url: "/#-talks"
 
   - title: "Internships"
     url: "/#-internships"
+
+  - title: "Awards"
+    url: "/#-awards"
+
+  # - title: "Educations"
+  #   url: "/#-educations"

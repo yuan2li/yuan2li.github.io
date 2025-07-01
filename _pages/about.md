@@ -27,8 +27,6 @@ I am now working on broad areas, including programming languages, software engin
 
 # 📝 Publications
 
-> \* *First student author*
-
 - [[FSE'25] Understanding Industry Perspectives of Static Application Security Testing (SAST) Evaluation](https://yuan2li.github.io/files/FSE25_SastEval.pdf)<br>
   **Yuan Li**, Peisen Yao, Kan Yu, Chengpeng Wang, Yaoyang Ye, Song Li, Meng Luo, Yepang Liu, Kui Ren<br>
   The ACM International Conference on the Foundations of Software Engineering (CCF A)
@@ -41,6 +39,8 @@ I am now working on broad areas, including programming languages, software engin
   Shudong Li, **Yuan Li**\*, Weihong Han, Xiaojiang Du, Mohsen Guizani, Zhihong Tian<br>
   Simulation Modelling Practice and Theory (JCR Q1)
 
+> \* *First student author*
+
 
 # 🔧 Projects
 
@@ -50,21 +50,24 @@ I am now working on broad areas, including programming languages, software engin
 
 
 # 💬 Talks
+
 - Understanding Industry Perspectives of Static Application Security Testing (SAST) Evaluation, FSE'25 Security Session, Trondheim, Norway, 2025.06 [\[slides\]](https://yuan2li.github.io/files/FSE_Security_1110_YuanLi_Understanding.pdf)
 
 
-# 🎖 Honors & Awards
+# 💻 Internships
+
+- AI-powered Malware Detection, Trend Micro, Nanjing, China, 2022.06-2022.09
+
+
+# 🎖 Awards
+
 - *2023.06* Outstanding Graduate
 - *2022.12* National Scholarship
-- *2021.12* Second Prize, CCF BCDI Digital Security Contest, Rank 2/907
-- *2020.10* Excellent Award, Coremail Email Security Contest, Rank 9/114
+- *2021.12* Second Prize, CCF BCDI Digital Security Contest
+- *2020.10* Excellent Award, Coremail Email Security Contest
 - *2018.12* Outstanding Undergraduate
 
 
 <!-- # 📖 Educations
 - *2023.09 - now* PhD Candidate, xxxbr>
   School of xx, xx University, xx -->
-
-
-# 💻 Internships
-- *2022.06 - 2022.09* ML Development for Threat Response, Trend Micro, Nanjing
