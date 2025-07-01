@@ -56,7 +56,7 @@ I am now working on broad areas, including programming languages, software engin
 
 # 💻 Internships
 
-- AI-powered Malware Detection, Trend Micro, Nanjing, China, 2022.06-2022.09
+- AI-powered Malware Detection, Trend Micro CDC, Nanjing, China, 2022.06-2022.09
 
 
 # 🎖 Awards
