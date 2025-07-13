@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Bio"
-    url: "/#about-me"
+  # - title: "Bio"
+  #   url: "/#about-me"
 
   - title: "News"
     url: "/#-news"
@@ -10,7 +10,7 @@ main:
     url: "/#-publications"
 
   - title: "Projects"
-    url: "/#-project-repos"
+    url: "/#-projects"
 
   - title: "Talks"
     url: "/#-talks"
