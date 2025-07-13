@@ -1,25 +1,25 @@
 # main links links
 main:
   - title: "Bio"
-    url: "/bio"
+    url: "/#-bio"
 
   - title: "News"
-    url: "/news"
+    url: "/#-news"
 
   - title: "Publications"
-    url: "/publications"
+    url: "/#-publications"
 
   - title: "Projects"
-    url: "/projects"
+    url: "/#-projects"
 
   - title: "Talks"
-    url: "/talks"
+    url: "/#-talks"
 
   - title: "Internships"
-    url: "/internships"
+    url: "/#-internships"
 
   - title: "Educations"
-    url: "/educations"
+    url: "/#-educations"
 
   - title: "Awards"
-    url: "/awards"
+    url: "/#-awards"
