@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuan Li"
-description              : "PhD Student@ZJU PL/SE/Security/AI"
+description              : "PL/SE/Sec/AI"
 repository               : "yuan2li/yuan2li.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuan Li"
   avatar           : "images/load.jpg"
-  bio              : "Zhejiang University"
+  bio              : "PhD Candidate@ZJU"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
