@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "yuan2li@ZJU"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
