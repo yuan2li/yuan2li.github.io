@@ -23,11 +23,13 @@ Hi, I'm Yuan Li, a PhD student in the [ZJU Programming Languages and Automated R
 I am now working on broad areas, including programming languages, software engineering, cybersecurity, and artificial intelligence, focusing on topics about the **evaluation and optimization** of techniques related to **static analysis**. 
 
 
+<span class='anchor' id='-news'></span>
 # 🔥 News
 - *2025.04.02*: &nbsp;🎉🎉 Our work on **SAST Evaluation** has been accepted by **FSE 2025**.
 - *2024.10.11*: &nbsp;🎉🎉 I passed the **Mid-term Assessment** of my PhD dissertation research.
 
 
+<span class='anchor' id='-publications'></span>
 # 📝 Publications
 
 - [**FSE'25**] Understanding Industry Perspectives of Static Application Security Testing (SAST) Evaluation<br>
@@ -46,6 +48,7 @@ I am now working on broad areas, including programming languages, software engin
   🔗 [[Paper]](https://yuan2li.github.io/files/SMPT21_MalMiningDetector.pdf) 💻 [[Code]](https://github.com/yuan2li/MalMiningDetector)
 
 
+<span class='anchor' id='-projects'></span>
 # 🛠️ Projects
 
 - [xAST Benchmark](https://github.com/alipay/ant-application-security-testing-benchmark): an open-source framework for systematically **evaluating application security testing tools**, providing standardized **evaluation items and test cases** to enable objective comparison and further improvement of the tools.
@@ -53,17 +56,20 @@ I am now working on broad areas, including programming languages, software engin
 - [Bold-Falcon](https://github.com/PowerLZY/Bold-Falcon): an open-source cloud sandbox for **automatically analyzing malware**, which conducts a **AI-enhanced detection** module, providing comprehensive analysis results of malware input.
 
 
+<span class='anchor' id='-talks'></span>
 # 💬 Talks
 
 - *2025.06*, **Understanding Industry Perspectives of Static Application Security Testing (SAST) Evaluation**. In the FSE'25 Security Session at Trondheim, Norway. 🔗 [[slides]](https://yuan2li.github.io/files/FSE_Security_1110_YuanLi_Understanding.pdf)
 
 
+<span class='anchor' id='-internships'></span>
 # 🧑‍💻 Internships
 
 - *2022.06-2022.09*, Mac Threat Response Team at Trend Micro, Nanjing, China.
 - *2018.05-2018.12*, Information Security Technology Department at Cyberguard Technologies, Weihai, China.
 
 
+<span class='anchor' id='-honors-and-awards'></span>
 # 🎖 Honors and Awards
 
 - *2023.06* Outstanding Graduate
