@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuan Li"
-description              : "PL/SE/Sec/AI"
+title                    : "Yuan Li's Homepage"
+description              : "PL/SE/Security/AI"
 repository               : "yuan2li/yuan2li.github.io"
 google_scholar_stats_use_cdn : true
 

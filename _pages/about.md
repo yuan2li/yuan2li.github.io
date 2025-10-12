@@ -64,13 +64,7 @@ I am now working on broad areas, including programming languages, software engin
 - *2018.05-2018.12*, Information Security Technology Department at Cyberguard Technologies, Weihai, China.
 
 
-# 🎓 Educations
-- *2023.09 - now*, **Ph.D. Candidate**, The State Key Laboratory of Blockchain and Data Security, Zhejiang University<br>
-- *2020.09 - 2023.06*, **M.S.**, The Cyberspace Institute of Advanced Technology, Guangzhou University<br>
-- *2016.09 - 2020.06*, **B.S.**, The Department of Computer Science and Technology, Harbin Institute of Technology, Weihai
-
-
-# 🎖 Awards
+# 🎖 Honors and Awards
 
 - *2023.06* Outstanding Graduate
 - *2022.12* National Scholarship
