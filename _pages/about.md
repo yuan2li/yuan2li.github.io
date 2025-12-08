@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi, I'm Yuan Li, a PhD student in the [ZJU Programming Languages and Automated Reasoning Group](https://github.com/ZJU-Automated-Reasoning-Group) at Zhejiang University, advised by Prof. [Peisen Yao](https://rainoftime.github.io). 
+Hi, I'm Yuan Li, a PhD student in the [ZJU Programming Languages and Automated Reasoning Group](https://github.com/ZJU-PL) at Zhejiang University, advised by Prof. [Peisen Yao](https://rainoftime.github.io). 
 
 I am now working on broad areas, including programming languages, software engineering, cybersecurity, and artificial intelligence, focusing on topics about the **evaluation and optimization** of techniques related to **static analysis**. 
 
@@ -34,17 +34,17 @@ I am now working on broad areas, including programming languages, software engin
 
 - [**FSE'25**] Understanding Industry Perspectives of Static Application Security Testing (SAST) Evaluation<br>
   **Yuan Li**, Peisen Yao, Kan Yu, Chengpeng Wang, Yaoyang Ye, Song Li, Meng Luo, Yepang Liu, Kui Ren<br>
-  The ACM International Conference on the Foundations of Software Engineering (CCF A)<br>
+  The ACM International Conference on the Foundations of Software Engineering (CORE-A<sup>*</sup>/CCF-A)<br>
   🔗 [[Paper]](https://yuan2li.github.io/files/FSE25_SastEval.pdf) 📖 [[Codebook]](https://github.com/yuan2li/SastEval)
 
 - [**TITS'23**] Imbalanced Malware Family Classification Using Multimodal Fusion and Weight Self-Learning<br>
   Shudong Li, **Yuan Li (1st student)**, Xiaobo Wu, Sattam Al Otaibi, Zhihong Tian<br>
-  IEEE Transactions on Intelligent Transportation Systems (CCF B, JCR Q1)<br>
+  IEEE Transactions on Intelligent Transportation Systems (JCR-Q1/CCF-B)<br>
   🔗 [[Paper]](https://yuan2li.github.io/files/TITS23_MalFamilyClassifier.pdf) 💻 [[Code]](https://github.com/yuan2li/MalFamilyClassifier)
 
 - [**SMPT'21**] Malicious Mining Code Detection Based on Ensemble Learning in Cloud Computing Environment<br>
   Shudong Li, **Yuan Li (1st student)**, Weihong Han, Xiaojiang Du, Mohsen Guizani, Zhihong Tian<br>
-  Simulation Modelling Practice and Theory (JCR Q1)<br>
+  Simulation Modelling Practice and Theory (JCR-Q1)<br>
   🔗 [[Paper]](https://yuan2li.github.io/files/SMPT21_MalMiningDetector.pdf) 💻 [[Code]](https://github.com/yuan2li/MalMiningDetector)
 
 
@@ -65,6 +65,7 @@ I am now working on broad areas, including programming languages, software engin
 <span class='anchor' id='-internships'></span>
 # 🧑‍💻 Internships
 
+- *2026.03-2027.03*, Software Systems Engineering Group at University College London, London, United Kingdom. (*planning*)
 - *2022.06-2022.09*, Mac Threat Response Team at Trend Micro, Nanjing, China.
 - *2018.05-2018.12*, Information Security Technology Department at Cyberguard Technologies, Weihai, China.
 
