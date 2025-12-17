@@ -38,12 +38,12 @@ I am now working on broad areas, including programming languages, software engin
   🔗 [[Paper]](https://yuan2li.github.io/files/FSE25_SastEval.pdf) 📖 [[Codebook]](https://github.com/yuan2li/SastEval)
 
 - [**TITS'23**] Imbalanced Malware Family Classification Using Multimodal Fusion and Weight Self-Learning<br>
-  Shudong Li, **Yuan Li (1st student)**, Xiaobo Wu, Sattam Al Otaibi, Zhihong Tian<br>
+  Shudong Li, **Yuan Li (Co-1st & 1st Student)**, Xiaobo Wu, Sattam Al Otaibi, Zhihong Tian<br>
   IEEE Transactions on Intelligent Transportation Systems (JCR-Q1/CCF-B)<br>
   🔗 [[Paper]](https://yuan2li.github.io/files/TITS23_MalFamilyClassifier.pdf) 💻 [[Code]](https://github.com/yuan2li/MalFamilyClassifier)
 
 - [**SMPT'21**] Malicious Mining Code Detection Based on Ensemble Learning in Cloud Computing Environment<br>
-  Shudong Li, **Yuan Li (1st student)**, Weihong Han, Xiaojiang Du, Mohsen Guizani, Zhihong Tian<br>
+  Shudong Li, **Yuan Li (Co-1st & 1st Student)**, Weihong Han, Xiaojiang Du, Mohsen Guizani, Zhihong Tian<br>
   Simulation Modelling Practice and Theory (JCR-Q1)<br>
   🔗 [[Paper]](https://yuan2li.github.io/files/SMPT21_MalMiningDetector.pdf) 💻 [[Code]](https://github.com/yuan2li/MalMiningDetector)
 
@@ -59,6 +59,7 @@ I am now working on broad areas, including programming languages, software engin
 <span class='anchor' id='-talks'></span>
 # 💬 Talks
 
+- *2025.12*, **Understanding Industry Perspectives of Static Application Security Testing (SAST) Evaluation**. In Guangzhou University at Guangzhou, China.
 - *2025.06*, **Understanding Industry Perspectives of Static Application Security Testing (SAST) Evaluation**. In the FSE'25 Security Session at Trondheim, Norway. 🔗 [[slides]](https://yuan2li.github.io/files/FSE_Security_1110_YuanLi_Understanding.pdf)
 
 
