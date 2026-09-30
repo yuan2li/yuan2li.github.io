@@ -19,7 +19,7 @@ redirect_from:
 
 
 
-Hi, I'm Yuan Li, a PhD student in the [ZJU Programming Languages and Automated Reasoning Group](https://github.com/ZJU-PL) at Zhejiang University, advised by Prof. [Peisen Yao](https://rainoftime.github.io). Currently, I am a visiting PhD student in the [Software Systems Engineering Group](https://www.ucl.ac.uk/software-systems-engineering/) at University College London (UCL), supervised by Prof. [He Ye](https://heye.me). 
+Hi, I'm Yuan Li, a PhD student in the [ZJU Programming Languages and Automated Reasoning Group](https://github.com/ZJU-PL) at Zhejiang University, advised by Prof. [Peisen Yao](https://rainoftime.github.io). Currently, I am a visiting PhD student in the [Software Systems Engineering Group](https://www.ucl.ac.uk/engineering/computer-science/research/research-groups-and-centres/software-systems-engineering-group) at University College London (UCL), supervised by Prof. [He Ye](https://heye.me). 
 
 My research interests lie in the intersection of programming languages, software engineering, cybersecurity, and artificial intelligence, with a particular focus on topics about the **evaluation and optimization** of techniques related to **static analysis**. 
 
@@ -84,7 +84,7 @@ My research interests lie in the intersection of programming languages, software
 <span class='anchor' id='-honors-and-awards'></span>
 # 🎖 Honors and Awards
 
-- *2025.12* Zhejiang University Qiushi Feiying Program (UCL visiting student)
+- *2025.12* Zhejiang University Qiushi Feiying Program
 - *2023.06* Outstanding Graduate
 - *2022.12* National Scholarship
 - *2021.12* Second Prize, CCF BCDI Digital Security Contest
